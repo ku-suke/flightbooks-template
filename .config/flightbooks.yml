@@ -1,0 +1,15 @@
+# Copyright 2019, flightbooks.pub
+# This file written in japanese, utf-8.
+# ビルド用テンプレート
+papersize: preview # preview | print | prepress | ebook
+cover: 1
+title: 'Flightbooks Sample Book'
+author: 'ku-suke'
+print_at: 'flightbooks printing'
+first_release_date: '2019/01 初版'
+copyright: '&copy; ku-suke'
+cover: 1
+toc: 1
+imprint: 1
+buildId: 'auto'
+slack_webhook: '/services/XXXXXXXXX/XXXXXXXXX/xxxxxxxxxxxxxxxxxxxxx'
